@@ -18,7 +18,7 @@ With some effort, you should be able to solve the puzzle. But can you figure out
 
 ### **The Program in Action:**
 
-Water Bucket Puzzle, by Hassan Ali Khan h.a.khan1992@gmail.com
+Water Bucket Puzzle, by Ahtasam Shafique ahtashams1212@gmail.com
 
 Try to get 4L of water into one of these buckets:
 
